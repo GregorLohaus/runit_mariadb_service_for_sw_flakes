@@ -1,2 +1,2 @@
 #!/bin/sh
-exec svlogd -tt $HOME/service/mariadb/logs
+exec svlogd -tt $HOME/services/mariadb/logs
